@@ -37,7 +37,7 @@ console.log(factors(16));  // [1,2,4,8,16]
 // Log the result of calling factors with the input number 17 to the console
 console.log(factors(17));  // [1,17] 
 
-**Sample Output:**
+**Output:**
 
 [1,3,5,15]
 [1,2,4,8,16]
@@ -76,7 +76,7 @@ console.log(find_Factors(16));
 // Log the result of calling find_Factors with the input number 17 to the console
 console.log(find_Factors(17));   
 
-**Sample Output:**
+**Output:**
 
 [1,3,5,15]
 [1,2,4,8,16]
