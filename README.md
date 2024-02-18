@@ -1,4 +1,4 @@
-# JavaSrcipt-Q24
+# JavaScript-Q25
 Write a JavaScript function to compute the factors of a positive integer.
 
 // Define a function named factors that returns an array of factors for a given number n
